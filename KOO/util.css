@@ -1,0 +1,118 @@
+.min-h-screen{
+    min-height: 200vh;
+}
+
+
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+
+.my-1{
+    margin-top: 190px;
+    margin-bottom: 13px;
+    margin-left: 160px;
+}
+.button{
+    position: relative;
+    margin-top: 40px;
+    text-decoration: none;
+    color: #fff;
+    width: 308px;
+    text-align: center;
+    background: #4b4b4b;
+    border-radius: 90px;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    min-height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+
+
+.btn{
+    padding:7px 12px;
+    border: 2px solid white;
+    border-radius: 40px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(65, 57, 56);
+    margin-bottom: 10px;
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
+
+/* Contact Section */
+.contact {
+    background: #f2f2f2;
+    text-align: center;
+    padding: 50px;
+}
+
+.contact h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.contact form input,
+.contact form textarea {
+    display: block;
+    margin: 10px auto;
+    padding: 15px;
+    width: 300px;
+}
+
+.contact form button {
+    display: block;
+    margin: 15px auto;
+    padding: 10px 20px;
+    background: #333;
+    color: #dbe1e8;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
